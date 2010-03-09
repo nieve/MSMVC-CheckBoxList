@@ -1,3 +1,1 @@
-This is just a test project to get to know git/github.
-In tmp branch!
-In master branch!!
+A sample project showing how a check box list could be done in ASP.NET MVC.
